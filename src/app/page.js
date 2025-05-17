@@ -20,9 +20,9 @@ export default function Home() {
               className="rounded-2xl shadow-2xl object-cover"
             />
             <p className="text-base text-center lg:text-left leading-relaxed max-w-sm">
-              I’m a passionate developer who enjoys building beautiful and functional web and mobile apps.
+              My name is Adeeb and I’m a passionate developer who enjoys building beautiful and functional web and mobile apps.
               I’m currently studying Computer Science at UofT and love to use software to solve problems.
-              When I'm not coding, I like to workout and meal prep healthy high protein foods.
+              When I’m not coding, I like to workout and meal prep healthy high protein foods.
             </p>
           </div>
 
